@@ -1,0 +1,28 @@
+*{
+  font-style:oblique;
+  font-size: 40px;
+  color:RosyBrown;
+  background-color:PapayaWhip;
+}
+img{
+  width:40%;
+}
+a{
+  text-decoration: none;
+  text-align: center;
+}
+#images img{
+  background-color:PapayaWhip);
+  background-size: cover;
+  height:50;
+  width:450px;
+  padding-top:160px;
+  padding-right:100px;
+  filter:blur(20px);
+}
+
+#images img:hover{
+	filter: none;
+	transition:0.3s;
+}
+
